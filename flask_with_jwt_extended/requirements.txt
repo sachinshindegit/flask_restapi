@@ -1,0 +1,5 @@
+Flask_JWT
+Flask_RESTful
+Flask-SQLAlchemy
+Flask-JWT-Extended
+jsonify
